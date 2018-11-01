@@ -21,3 +21,6 @@
     - timeline
     - spider chart
     - who sends more messages in a given day (day champion)
+    
+    
+Browser notebook: http://nbviewer.jupyter.org/github/duarteocarmo/whatsapp-visualizations/blob/master/analysis.ipynb?flush_cache=true
